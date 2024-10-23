@@ -1,5 +1,5 @@
 body {
-    background-color: blue;
+    background-color: #ADD8E6;
     font-family: Roboto, sans-serif;
 }
 
@@ -7,10 +7,10 @@ h1 {
     color: #333;
 }
 h2{
-    color: yellow;
+    color: #333;
 }
 p{
-    color: #008000; 
+    color: #333; 
 }
 
 .container {
